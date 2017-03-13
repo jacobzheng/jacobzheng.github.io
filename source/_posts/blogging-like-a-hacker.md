@@ -1,5 +1,5 @@
 ---
-title: blogging-like-a-hacker
+title: blogging like a hacker
 date: 2012-03-04 16:35:27
 categories: 生活开始
 tags: 记录
